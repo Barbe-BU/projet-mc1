@@ -1,0 +1,40 @@
+.NavComponent {
+  position: absolute;
+  bottom: 30px;
+  right: 0;
+  left: 0;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+/* .NavComponent ul {
+  position: absolute;
+  bottom: 30px;
+  left: auto;
+  right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  background-color: #fff;
+} */
+li {
+  text-transform: capitalize;
+  padding: 10px 15px;
+  list-style: none;
+}
+
+.nav-active {
+  color: aqua;
+  background-color: #111236d6;
+  border-radius: 15px;
+}
+
+a {
+  color: rgba(130, 255, 255, 0.611);
+  text-decoration: none;
+}
