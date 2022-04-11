@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projet-mc1/static/css/main.beb6c64b.css",
+    "main.js": "/projet-mc1/static/js/main.aa2dc173.js",
+    "index.html": "/projet-mc1/index.html",
+    "main.beb6c64b.css.map": "/projet-mc1/static/css/main.beb6c64b.css.map",
+    "main.aa2dc173.js.map": "/projet-mc1/static/js/main.aa2dc173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb6c64b.css",
+    "static/js/main.aa2dc173.js"
+  ]
+}
